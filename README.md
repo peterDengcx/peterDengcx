@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peterDengcx, I'm a Postgraduate at UESTC(ChengDu,PRC) and I have a Bachelor's degree in NEU(ShenYang,PRC) in 2022.
+- 👋 Hi, I’m @peterDengcx, a Postgraduate at UESTC(ChengDu,PRC) major in Computer Science and I have a Bachelor's degree in NEU(ShenYang,PRC) in 2022.
 - 👀 I’m interested in Machine Learning & Distributed System.
 - 🌱 I’m currently learning Parallel Programming(CMU 15-415).
 - 💞️ I want to do more engineering  during my master's life. 
